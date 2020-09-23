@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Tyler Desharnais Resume
 
 I'm glad you are here. I plan to talk about ...
