@@ -1,6 +1,7 @@
 title: Tyler Desharnais Resume
 author: Ty Desharnais
-email: tydesharnais1998@gmail.com.com
+email: tydesharnais1998@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Tyler Desharnais GitHub Resume. Building a better future through technological advancements,
   Software Engineering, Robotics, and Artifical Intelligence
